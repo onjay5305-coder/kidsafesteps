@@ -1,0 +1,6 @@
+{
+  "name": "童途安行 - 私家车载送儿童智能GPS导航与监护系统",
+  "description": "专为家长打造的私家车定时定点载送孩子管家，具备GPS智能导航、一周接送日程表、上下车打卡签到、实时位置家人共享、双向沟通留言、临时调程与一键SOS紧急呼叫，保障端到端加密安全隐私。",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
